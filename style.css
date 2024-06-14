@@ -1,8 +1,23 @@
 :root {
     --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
+
 
 body {
 
     background-color: #EBECEE;
+}
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+.container__imagem {
+    padding: 1em;
 }
