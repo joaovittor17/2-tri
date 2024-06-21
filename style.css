@@ -1,4 +1,12 @@
+@import url("estilos/cabecalho.css");
+@import url("estilos/corpo.css");
+@import url("estilos/rodape.css");
+
+
+
+
 :root {
+
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
 }
