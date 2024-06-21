@@ -1,8 +1,5 @@
 @import url("styles/header.css");
 
-
-
-
 :root {
 
     --cor-de-fundo: #EBECEE;
@@ -19,10 +16,4 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-.container {
-    display: flex;
-    align-items: center;
-}
-.container__imagem {
-    padding: 1em;
-}
+
