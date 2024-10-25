@@ -34,3 +34,10 @@
     display: flex;
     justify-content: space-between;
   }
+  .botões {
+    display: flex;
+  }
+  .descrição__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+  }
