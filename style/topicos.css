@@ -8,3 +8,8 @@
     font-weight: 300;
     margin-bottom: 1em;
   }
+  .tópicos__lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
